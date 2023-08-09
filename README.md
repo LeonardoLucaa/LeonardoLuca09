@@ -19,3 +19,4 @@ Contato
 Adoro colaborar e aprender com outros desenvolvedores e profissionais da área. Sinta-se à vontade para entrar em contato comigo por meio do meu LinkedIn para discussões, colaborações ou apenas para bater um papo sobre tecnologia e design!
 
 Fique à vontade para explorar meus repositórios e projetos aqui no GitHub. Espero que você encontre algo inspirador ou útil em meu trabalho. Obrigado por visitar!
+https://www.linkedin.com/in/leonardo-luca-b34908248/
