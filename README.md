@@ -1,5 +1,5 @@
 Bem-vindo ao meu Perfil do GitHub!
-Olá! Eu sou o Leonardo, um desenvolvedor web júnior apaixonado por criar experiências incríveis na web. Sou formado em Análise e Desenvolvimento de Sistemas pelo Unilavras e tenho uma especialização em design web UX/UI. Estou constantemente buscando aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
+Eu sou o Leonardo, um desenvolvedor web júnior apaixonado por criar experiências incríveis na web. Sou formado em Análise e Desenvolvimento de Sistemas pelo Unilavras e tenho uma especialização em design web UX/UI. Estou constantemente buscando aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
 
 Sobre Mim
 Com uma formação sólida em Análise e Desenvolvimento de Sistemas, tenho uma base técnica sólida que me permite compreender os aspectos complexos do desenvolvimento web. Minha especialização em design web UX/UI me permite criar interfaces atraentes e funcionais que priorizam a experiência do usuário.
